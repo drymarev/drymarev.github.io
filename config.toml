@@ -1,0 +1,4 @@
+baseURL = 'https://www.dmitryrymarev.com'
+languageCode = 'en-us'
+title = 'A blog'
+theme = 'anatole'
