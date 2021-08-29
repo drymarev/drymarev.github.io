@@ -2,6 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/PaperMod" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/anatole" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/anubis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/beautifulhugo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/cactus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/fuji" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-theme-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/keira" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/pickles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/tale" vcs="Git" />
   </component>
 </project>

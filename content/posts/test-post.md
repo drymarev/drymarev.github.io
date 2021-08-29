@@ -5,9 +5,19 @@ draft: true
 ---
 This is a test post to see how the theme looks.
 
-## Here's some heading
+<!--more-->
 
-And even a bit of code:
+# H1
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
+
+And even a bit of code `here and there`:
 
 ```kotlin
 fun main() {

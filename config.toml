@@ -1,4 +1,19 @@
 baseURL = 'https://www.dmitryrymarev.com'
 languageCode = 'en-us'
-title = 'A blog'
-theme = 'PaperMod'
+title = 'Dmitry Rymarev'
+theme = 'keira'
+
+pygmentsCodeFences = true
+
+[author]
+name = 'Dmitry Rymarev'
+github = 'drymarev'
+linkedin = 'drymarev'
+
+[params]
+customCSS = ['css/code.css']
+google_fonts = ['Ruda', 'Roboto Slab', 'JetBrains Mono']
+disableDarkModeCSS = true
+
+[markup.highlight]
+style = 'igor'
