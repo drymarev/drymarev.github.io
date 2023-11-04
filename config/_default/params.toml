@@ -1,0 +1,3 @@
+customCSS = ['css/code.css']
+google_fonts = ['Ruda', 'Roboto Slab', 'JetBrains Mono']
+disableDarkModeCSS = true

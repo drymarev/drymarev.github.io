@@ -1,0 +1,6 @@
+baseURL = 'https://www.dzmitryrymarau.com/'
+languageCode = 'en-us'
+title = 'Dzmitry Rymarau'
+theme = 'keira'
+
+pygmentsCodeFences = true
